@@ -1,6 +1,9 @@
 class BooksController < ApplicationController
-  include GoogleBooksApi
   def index
+    
+  end
+
+  def search
     
   end
 end
